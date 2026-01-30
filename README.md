@@ -30,4 +30,4 @@ and data processing learning journey.
 - [View Certificate PDF](https://coursera.org/share/2d461794a8e35d690dcc25a667c7b98f)
 
 
-Each certificate is included in this repository as a PDF for verification.
+Each certificate is available via the links above for verification.
