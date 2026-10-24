@@ -27,6 +27,7 @@ and data processing learning journey.
 - **Institution:** University of Michigan
 - **Platform:** Coursera
 - **Skills Covered:** Python basics, variables, conditionals, loops, functions
+- **Grade Achivied:** 96.51%
 - [View Certificate PDF](https://coursera.org/share/2d461794a8e35d690dcc25a667c7b98f)
 
 
